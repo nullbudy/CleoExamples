@@ -4,3 +4,8 @@ body{
 .btn-outline-info{
     color: black;
 }
+.contenedores{
+    background-color: #ffe6e6;
+    opacity:0.9; 
+    padding:2%;
+}
